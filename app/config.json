@@ -1,0 +1,7 @@
+{
+  "dbConnection": "postgresql://root:root@postgres:5432/users",
+  "dbname": "core",
+  "dbDebug": "True",
+  "dbLogLevel": 10,
+  "dbLogPath": "app.log"
+}

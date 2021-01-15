@@ -1,0 +1,8 @@
+2021-01-15 14:25:48,572 - log - INFO - Database connected successfully
+2021-01-15 14:26:51,372 - log - INFO - Consulta de usuarios
+2021-01-15 14:27:08,079 - log - INFO - Creación de usuario: username
+2021-01-15 14:27:15,432 - log - INFO - Consulta de usuarios
+2021-01-15 14:27:58,075 - log - INFO - Consulta de usuarios
+2021-01-15 14:30:04,033 - log - INFO - Consulta de usuarios
+2021-01-15 14:31:00,255 - log - INFO - Login de usuario: username
+2021-01-15 14:31:37,440 - log - INFO - Database disconnected successfully
